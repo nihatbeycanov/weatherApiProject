@@ -1,0 +1,10 @@
+# Verilənlər bazası şifrəsi burada olduğu üçün GitHub-a getməsin
+.env
+
+# IntelliJ faylları
+.idea/
+*.iml
+
+# Gradle build faylları
+.gradle/
+build/
